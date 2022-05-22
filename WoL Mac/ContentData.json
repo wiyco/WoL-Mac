@@ -1,0 +1,10 @@
+[
+    {
+        "id": "a4ca723b-6291-81de-5757-2fd5d17ce68f",
+        "name": "myDevice",
+        "mac": "FF:FF:FF:FF:FF:FF",
+        "ipAddr": "192.168.1.11",
+        "bcAddr": "192.168.1.255",
+        "port": "9"
+    }
+]
